@@ -1,7 +1,0 @@
-ListOrdersTest.class
-CreateCourierTest.class
-AcceptOrderTest.class
-LoginCourierTest.class
-OrderCreateTest.class
-DeleteCourierTest.class
-GetOrderByNumberTest.class
