@@ -1,0 +1,13 @@
+/Users/aleksei/Desktop/sprint_7/src/main/java/base/Config.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/client/OrderClient.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/client/CourierClient.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/client/AcceptOrder.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/CourierCredentials.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/deserializedOrder/AvailableStations.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/deserializedOrder/Orders.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/client/GetOrderByNumber.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/deserializedOrder/PageInfo.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/Courier.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/CourierGenerator.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/Order.java
+/Users/aleksei/Desktop/sprint_7/src/main/java/model/deserializedOrder/DeserializedOrder.java
