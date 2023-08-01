@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: Orders.OrderListTest
+Test set: LoginCourierTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.85 s - in Orders.OrderListTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.68 s - in LoginCourierTest
